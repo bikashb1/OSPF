@@ -1,0 +1,2 @@
+# OSPF
+configuration of switch
